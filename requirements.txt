@@ -1,0 +1,7 @@
+transformers>=4.30.0
+torch             
+accelerate
+huggingface-hub
+pillow
+streamlit
+python-dotenv
